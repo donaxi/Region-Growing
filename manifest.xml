@@ -1,0 +1,17 @@
+<package>
+  <description brief="color">
+
+     color
+
+  </description>
+  <author>ACP</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/color</url>
+  <depend package="pcl17"/>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="tf"/> 
+
+</package>
